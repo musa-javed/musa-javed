@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b,7c3aed,db2777&height=200&section=header&text=MUSA%20JAVED&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=c084fc&center=true&vCenter=true&width=650&lines=DATA+SCIENCE+Student;Full-Stack+Developer;Python+%7C+JavaScript+%7C+React;Building+Scalable+Digital+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=c084fc&center=true&vCenter=true&width=650&lines=DATA+SCIENCE+STUDENT;Full-Stack+Developer;Python+%7C+JavaScript+%7C+React;Building+Scalable+Digital+Solutions" />
 
 </div>
 
